@@ -15,8 +15,10 @@ Analiso negócios e exploro seus dados utilizando ferramentas estatísticas e al
 
 ![Contador de Visualizações](https://komarev.com/ghpvc/?username=andormoreira&theme=dracula)
 
+<!--
 <div style="display: flex; justify-content: center; align-items: flex-start; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=andormoreira&show_icons=true&theme=dracula&rank_icon=github" alt="Estatísticas do GitHub do André" style="height: 200px; border-radius: 10px; margin-right: 10px;"/>
+-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andormoreira&theme=dracula" alt="Linguagens Mais Utilizadas pelo André" style="height: 200px; border-radius: 10px;"/>
 </div>
 
