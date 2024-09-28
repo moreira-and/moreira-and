@@ -39,9 +39,9 @@ Analiso negócios e exploro seus dados utilizando ferramentas estatísticas e al
 
 - 🌱 **Cursando:** Pós-graduação em Data Science e Inteligência Artificial - XPE
 - 📚 **Bacharelado:** Engenharia de Controle e Automação - UNICAMP
+- 📋 **Certificação:** Green Belt em Lean Six-Sigma - [Certificação EDTI](https://ead2.escolaedti.com.br/certificates/public?token=b5c7f837dedc708a1df72a3faf40bdf9)
 
 ---
-
 ## 🛠️ Tecnologias e Ferramentas
 
 | **Categoria**               | **Tecnologia/Ferramenta**                                                                                                                                           |
