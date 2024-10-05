@@ -1,4 +1,4 @@
-# 👋 Olá! Sou um Cientista de Dados 📊
+# 👋 Olá! Sou um Profissional de Dados 📊
 
 ---
 
