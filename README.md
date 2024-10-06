@@ -31,7 +31,7 @@ I specialize in analyzing businesses and exploring their data using statistical 
 | Data Science Problem Solving          | [![KAGGLE](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/andmoreira) |
 | Communication Skills                  | [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/drive/folders/1LM_MCYURK4EFZt_surtWQy9gHo7DoYP4?usp=sharing) |
 
-📧 **Contact me:** [andormoreira@gmail.com](mailto:andormoreira@gmail.com)
+📧 **Contact me:** [andmoreira98@gmail.com](mailto:andmoreira98@gmail.com)
 
 ---
 
