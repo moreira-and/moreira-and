@@ -11,17 +11,18 @@ I specialize in analyzing businesses and exploring their data using statistical 
 [![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=fff)](https://drive.google.com/drive/folders/1LM_MCYURK4EFZt_surtWQy9gHo7DoYP4?usp=sharing)
 
 ---
-
-![Contador de Visualizações](https://komarev.com/ghpvc/?username=andormoreira&theme=dracula)
-
 <!--
+![Contador de Visualizações](https://komarev.com/ghpvc/?username=moreira-and&theme=dracula)
+
+
 <div style="display: flex; justify-content: center; align-items: flex-start; margin: 20px 0;">
   <img src="https://github-readme-stats.vercel.app/api?username=andormoreira&show_icons=true&theme=dracula&rank_icon=github" alt="Estatísticas do GitHub do André" style="height: 200px; border-radius: 10px; margin-right: 10px;"/>
--->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andormoreira&theme=dracula" alt="Linguagens Mais Utilizadas pelo André" style="height: 200px; border-radius: 10px;"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-and&theme=dracula" alt="Linguagens Mais Utilizadas pelo André" style="height: 200px; border-radius: 10px;"/>
 </div>
 
 ---
+-->
 
 ## 🧩 Skills and Contact
 
