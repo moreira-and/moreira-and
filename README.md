@@ -50,3 +50,5 @@ I specialize in analyzing businesses and exploring their data using statistical 
 | 📊 Dashboards               | [![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://learn.microsoft.com/pt-br/power-bi/)                                                                                     |
 
 ---
+
+aaaa
