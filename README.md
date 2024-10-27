@@ -45,11 +45,11 @@ I would love to discuss how I can create value with data for you. Let's connect!
   - [Data Analytics](https://app.awari.com.br/certificado/c3f7cac4-7994-4ca2-b0c8-87bb2e561275)  
     *Skills in data interpretation and decision-making based on analytical findings.*  
   - [Lean Six Sigma Green Belt](https://ead2.escolaedti.com.br/certificates/public?token=b5c7f837dedc708a1df72a3faf40bdf9)  
-    *Expertise in process improvement and operational excellence methodologies.*  
-
-- 🦆 Data Science Competitions
-  - [Kaggle](https://www.kaggle.com/andmoreira)
-
+    *Expertise in process improvement and operational excellence methodologies.*
+    
+- 🦆 **Data Science Competitions:**  
+  - [Kaggle](https://www.kaggle.com/andmoreira)  
+    *to apply and enhance my analytical skills.*
 ---
 
 ## 🛠️ Technologies and Tools
