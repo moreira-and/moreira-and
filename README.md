@@ -23,8 +23,8 @@ I would love to discuss how I can create value with data for you. Let's connect!
 ![Profile View Count](https://komarev.com/ghpvc/?username=moreira-and&theme=dracula)  
 
 <div style="display: flex; justify-content: center; align-items: flex-start; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=moreira-and&show_icons=true&theme=dracula&rank_icon=github" alt="Estatísticas do GitHub do André" style="height: 200px; border-radius: 10px; margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-and&theme=dracula" alt="Linguagens Mais Utilizadas pelo André" style="height: 200px; border-radius: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=moreira-and&show_icons=true&theme=dracula&rank_icon=github" alt="Estatísticas do GitHub do André" style="height: 150px; border-radius: 10px; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-and&theme=dracula" alt="Linguagens Mais Utilizadas pelo André" style="height: 150px; border-radius: 10px;"/>
 </div>
 
 ---
