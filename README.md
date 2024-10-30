@@ -65,6 +65,6 @@ I would love to discuss how I can create value with data for you. Let's connect!
 
 If you need motivation to study, I recommend this video in Portuguese (if necessary, enable subtitles): [Motivation to Study](https://www.youtube.com/watch?v=TRPBY_lxJfE).
 
-If you need ideas to visualize your data: [data-to-viz](https://www.data-to-viz.com/)
+If you need ideas to visualize your data: [data-to-viz](https://www.data-to-viz.com/) | [dataviz-inspiration](https://www.dataviz-inspiration.com/)
 
 _*Thank you for visiting!*_
