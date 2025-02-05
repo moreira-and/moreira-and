@@ -15,14 +15,6 @@ Now, I am deepening my knowledge in **Data Science** and **Machine Learning** to
 
 ---
 
-![Profile View Count](https://komarev.com/ghpvc/?username=moreira-and&theme=dracula)  
-
-<div style="display: flex; justify-content: center; align-items: flex-start; margin: 20px 0;">
-  <img src="https://github-readme-stats.vercel.app/api?username=moreira-and&show_icons=true&theme=dracula&rank_icon=github" alt="André's GitHub Stats" style="height: 150px; border-radius: 10px; margin-right: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-and&theme=dracula" alt="Top Languages Used by André" style="height: 150px; border-radius: 10px;"/>
-</div>
-
----
 ## 🎓 Academic and Professional Development
 
 - 🌱 **Currently Studying:**  
@@ -59,9 +51,18 @@ Now, I am deepening my knowledge in **Data Science** and **Machine Learning** to
 
 ---
 
+![Profile View Count](https://komarev.com/ghpvc/?username=moreira-and&theme=dracula)  
+
+<div style="display: flex; justify-content: center; align-items: flex-start; margin: 20px 0;">
+  <img src="https://github-readme-stats.vercel.app/api?username=moreira-and&show_icons=true&theme=dracula&rank_icon=github" alt="André's GitHub Stats" style="height: 150px; border-radius: 10px; margin-right: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moreira-and&theme=dracula" alt="Top Languages Used by André" style="height: 150px; border-radius: 10px;"/>
+</div>
+
+---
+
 ## 💡 Let’s Build Solutions Together!
 
-If you're looking for a passionate data professional with a knack for **analytics**, **automation**, and **insights**, let’s connect!
+If you're looking for a passionate data professional with a knack for **analytics**, **automation**, and **insights**, let’s [connect](https://www.linkedin.com/in/moreira-and)!
 
 ---
 
