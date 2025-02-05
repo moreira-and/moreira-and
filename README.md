@@ -23,7 +23,6 @@ Now, I am deepening my knowledge in **Data Science** and **Machine Learning** to
 </div>
 
 ---
-
 ## 🎓 Academic and Professional Development
 
 - 🌱 **Currently Studying:**  
@@ -34,7 +33,8 @@ Now, I am deepening my knowledge in **Data Science** and **Machine Learning** to
   Control and Automation Engineering - UNICAMP  
   *Specialized in integrating technology and systems for improved processes.*  
 
-- 📋 **Courses and Certifications:**  
+- 📋 **Courses and Certifications:**
+  - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/pt-br/moreira-and/8D008900A573B765?sharingId=2A1876131FAA5088)
   - [Data Science](https://app.awari.com.br/certificado/84cc0992-22a9-427c-8f10-f52c2ec66342)  
     *Data analysis, visualization, and machine learning techniques.*  
   - [Data Analytics](https://app.awari.com.br/certificado/c3f7cac4-7994-4ca2-b0c8-87bb2e561275)  
@@ -56,7 +56,6 @@ Now, I am deepening my knowledge in **Data Science** and **Machine Learning** to
 | 🛠️ **Power Platform**         | Power BI, Power Apps, Power Automate                                                                                                                             |
 | 📊 **Analytics & BI Tools**   | Tableau, Excel, Power Query                                                                                                                                      |
 | 📚 **Python Libraries**        | NumPy, Pandas, Matplotlib, Seaborn, Scikit-Learn                                                                                                                |
-| 🛠️ **Data Engineering**       | APIs, SQL Databases, Data Modeling                                                                                                                               |
 
 ---
 
@@ -66,7 +65,7 @@ If you're looking for a passionate data professional with a knack for **analytic
 
 ---
 
-If you need motivation to study, I recommend this video in Portuguese (if necessary, enable subtitles): [Motivation to Study](https://www.youtube.com/watch?v=TRPBY_lxJfE).
+If you need motivation to study, I recommend this video in Portuguese (if necessary, enable subtitles): [Motivação para estudar (BRIO) | Clóvis de Barros](https://www.youtube.com/watch?v=TRPBY_lxJfE).
 
 If you need ideas to visualize your data: [data-to-viz](https://www.data-to-viz.com/) | [dataviz-inspiration](https://www.dataviz-inspiration.com/)
 
