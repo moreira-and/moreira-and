@@ -26,7 +26,8 @@ Now, I am deepening my knowledge in **Data Science** and **Machine Learning** to
   *Specialized in integrating technology and systems for improved processes.*  
 
 - 📋 **Courses and Certifications:**
-  - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/pt-br/moreira-and/8D008900A573B765?sharingId=2A1876131FAA5088)
+  - [Microsoft Certified: Power BI Data Analyst Associate](https://learn.microsoft.com/api/credentials/share/pt-br/moreira-and/8D008900A573B765?sharingId=2A1876131FAA5088)  
+    *Prepare, model, visualize and analyze the data, manage and secure Power BI.*  
   - [Data Science](https://app.awari.com.br/certificado/84cc0992-22a9-427c-8f10-f52c2ec66342)  
     *Data analysis, visualization, and machine learning techniques.*  
   - [Data Analytics](https://app.awari.com.br/certificado/c3f7cac4-7994-4ca2-b0c8-87bb2e561275)  
