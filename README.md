@@ -1,12 +1,10 @@
 # 👋 Hello! I am André! 📊
 
-Through my academic and professional experiences, I developed expertise in analyzing processes, designing automated workflows, and creating data-driven solutions to improve efficiency and decision-making. My work focuses on leveraging **Power Platform tools** (Power BI, Power Apps, Power Automate) to build dashboards, applications, and automated workflows that empower teams with actionable insights.
+I help companies increase their performance and achieve strategic goals by aligning teams and leveraging data to uncover opportunities, identify patterns, and support decision-making. I transform information into valuable insights, presented through interactive dashboards or implemented into software rules, including machine learning techniques, enabling more assertive and agile decision-making.
 
-Now, I am deepening my knowledge in **Data Science** and **Machine Learning** to explore new ways of transforming raw data into meaningful patterns, building predictive models, and making informed decisions. My aim is to harness the power of data and algorithms to solve real-world challenges.
+My work includes creating automated reports, conducting exploratory analyses to identify opportunities, and developing models that automate business decisions. Additionally, my background in process mapping, training, Lean Six Sigma projects, and operational excellence philosophies allows me to combine data analytics with the ability to understand and optimize processes, delivering results that positively impact both strategy and operations.
 
----
-
-## 📫 Let's Connect!
+If you’re looking to turn data into actionable insights, optimize processes, or explore new improvement opportunities, let’s connect!
 
 - ✉️ **Email:** [andmoreira98@gmail.com](mailto:andmoreira98@gmail.com)  
   *Feel free to reach out for collaborations or inquiries.*  
