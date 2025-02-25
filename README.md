@@ -52,4 +52,8 @@ If you need motivation to study, I recommend this video in Portuguese (if necess
 
 If you need ideas to visualize your data: [data-to-viz](https://www.data-to-viz.com/) | [dataviz-inspiration](https://www.dataviz-inspiration.com/)
 
+Teach and learn math in a smarter way: [geogebra](https://www.geogebra.org/)
+
+Tinker With a Neural Network Right Here in Your Browser: [playground.tensorflow](https://playground.tensorflow.org/)
+
 _*Thank you for visiting!*_
