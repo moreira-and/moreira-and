@@ -4,8 +4,6 @@ I help companies boost performance and reach strategic goals by aligning teams a
 
 My expertise spans from exploratory data analysis and predictive modeling to automating business decisions. Beyond data, I bring solid experience in process mapping, Lean Six Sigma, and operational excellence, allowing me to optimize workflows and deliver measurable impact across strategy and operations.
 
-- ✉️ **Email:** [andmoreira98@gmail.com](mailto:andmoreira98@gmail.com)  
-  *Feel free to reach out for collaborations or inquiries.*  
 - 🔗 **LinkedIn:** [moreira-and](https://www.linkedin.com/in/moreira-and)  
   *Connect with me for professional updates and networking opportunities.*
 - ▶ **YouTube:** [@DadosSobreAprendizado](https://www.youtube.com/@DadosSobreAprendizado)  
