@@ -1,15 +1,15 @@
 # 👋 Hello! I am André! 📊
 
-I help companies increase their performance and achieve strategic goals by aligning teams and leveraging data to uncover opportunities, identify patterns, and support decision-making. I transform information into valuable insights, presented through interactive dashboards or implemented into software rules, including machine learning techniques, enabling more assertive and agile decision-making.
+I help companies boost performance and reach strategic goals by aligning teams and unlocking the power of data. By transforming raw information into actionable insights—through interactive dashboards, automated reports, or embedded software solutions including machine learning—I enable smarter, faster decision-making.
 
-My work includes creating automated reports, conducting exploratory analyses to identify opportunities, and developing models that automate business decisions. Additionally, my background in process mapping, training, Lean Six Sigma projects, and operational excellence philosophies allows me to combine data analytics with the ability to understand and optimize processes, delivering results that positively impact both strategy and operations.
-
-If you’re looking to turn data into actionable insights, optimize processes, or explore new improvement opportunities, let’s connect!
+My expertise spans from exploratory data analysis and predictive modeling to automating business decisions. Beyond data, I bring solid experience in process mapping, Lean Six Sigma, and operational excellence, allowing me to optimize workflows and deliver measurable impact across strategy and operations.
 
 - ✉️ **Email:** [andmoreira98@gmail.com](mailto:andmoreira98@gmail.com)  
   *Feel free to reach out for collaborations or inquiries.*  
 - 🔗 **LinkedIn:** [moreira-and](https://www.linkedin.com/in/moreira-and)  
-  *Connect with me for professional updates and networking opportunities.*   
+  *Connect with me for professional updates and networking opportunities.*
+- ▶ **YouTube:** [@DadosSobreAprendizado](https://www.youtube.com/@DadosSobreAprendizado)  
+  *Sharing data-driven insights and learning resources to empower the community.*
 
 ---
 
