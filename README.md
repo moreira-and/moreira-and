@@ -1,8 +1,10 @@
 # 👋 Hello! I am André! 📊
 
-I help companies boost performance and reach strategic goals by aligning teams and unlocking the power of data. By transforming raw information into actionable insights—through interactive dashboards, automated reports, or embedded software solutions including machine learning—I enable smarter, faster decision-making.
+I operate across the full data lifecycle — from engineering (data modeling, ETL/ELT, lakehouse architectures) to data science (EDA, predictive modeling, MLOps) — delivering solutions that range from interactive dashboards to production-grade machine learning pipelines.
 
-My expertise spans from exploratory data analysis and predictive modeling to automating business decisions. Beyond data, I bring solid experience in process mapping, Lean Six Sigma, and operational excellence, allowing me to optimize workflows and deliver measurable impact across strategy and operations.
+Proficient in **Microsoft Fabric**, **Power BI (PL-300)**, **Python** (pandas, PySpark, TensorFlow), and data architectures (**Medallion**, dimensional modeling), I build scalable analytics products that shorten analysis time, enhance decision accuracy, and drive operational efficiency.
+
+Beyond technical expertise, I apply methodologies such as **CRISP-DM** to ensure governance, efficiency, and alignment between business and technical teams, enabling continuous value creation.
 
 - 🔗 **LinkedIn:** [moreira-and](https://www.linkedin.com/in/moreira-and)  
   *Connect with me for professional updates and networking opportunities.*
