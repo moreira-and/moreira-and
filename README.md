@@ -2,7 +2,7 @@
 
 I operate across the full data lifecycle — from engineering (data modeling, ETL/ELT, lakehouse architectures) to data science (EDA, predictive modeling, MLOps) — delivering solutions that range from interactive dashboards to production-grade machine learning pipelines.
 
-Proficient in **Microsoft Fabric**, **Power BI (PL-300)**, **Python** (pandas, PySpark, TensorFlow), and data architectures (**Medallion**, dimensional modeling), I build scalable analytics products that shorten analysis time, enhance decision accuracy, and drive operational efficiency.
+Proficient in **Microsoft Fabric**, **Power BI [(PL-300)](https://learn.microsoft.com/api/credentials/share/pt-br/moreira-and/8D008900A573B765?sharingId=2A1876131FAA5088)**, **Python** (pandas, PySpark, TensorFlow), and data architectures (**Medallion**, dimensional modeling), I build scalable analytics products that shorten analysis time, enhance decision accuracy, and drive operational efficiency.
 
 Beyond technical expertise, I apply methodologies such as **CRISP-DM** to ensure governance, efficiency, and alignment between business and technical teams, enabling continuous value creation.
 
@@ -32,10 +32,6 @@ Beyond technical expertise, I apply methodologies such as **CRISP-DM** to ensure
     *Insights through data interpretation and analytical decision-making.*  
   - [Lean Six Sigma Green Belt](https://ead2.escolaedti.com.br/certificates/public?token=b5c7f837dedc708a1df72a3faf40bdf9)  
     *Process improvement and operational excellence methodologies.*  
-
-- 🦆 **Data Science Competitions:**  
-  - [Kaggle](https://www.kaggle.com/andmoreira)  
-    *Practicing analytical skills in real-world scenarios.*  
 
 ---
 
