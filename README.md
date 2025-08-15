@@ -1,10 +1,6 @@
 # 👋 Hello! I am André! 📊
 
-I operate across the full data lifecycle — from engineering (data modeling, ETL/ELT, lakehouse architectures) to data science (EDA, predictive modeling, MLOps) — delivering solutions that range from interactive dashboards to production-grade machine learning pipelines.
-
-Proficient in **Microsoft Fabric**, **Power BI [(PL-300)](https://learn.microsoft.com/api/credentials/share/pt-br/moreira-and/8D008900A573B765?sharingId=2A1876131FAA5088)**, **Python** (pandas, PySpark, TensorFlow), and data architectures (**Medallion**, dimensional modeling), I build scalable analytics products that shorten analysis time, enhance decision accuracy, and drive operational efficiency.
-
-Beyond technical expertise, I apply methodologies such as **CRISP-DM** to ensure governance, efficiency, and alignment between business and technical teams, enabling continuous value creation.
+I design and evolve modern data ecosystems, integrating the full analytical cycle (descriptive, diagnostic, predictive, and prescriptive) to transform information into high-impact strategic decisions. I deliver everything from executive visualizations that synthesize historical patterns and trends to Machine Learning and AI models that anticipate scenarios and simulate strategic actions. I act as a bridge between technical teams and business areas, translating complexity into clarity and guiding initiatives based on evidence. I adopt proven practices in governance, security, observability, and version control, ensuring that data and models are reliable, scalable, and aligned with future demands, accelerating the organization’s analytical maturity and competitive advantage.
 
 - 🔗 **LinkedIn:** [moreira-and](https://www.linkedin.com/in/moreira-and)  
   *Connect with me for professional updates and networking opportunities.*
